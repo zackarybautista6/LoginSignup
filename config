@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Login-Signup"]
+	url = https://github.com/zackarybautista6/Log-in-Sign-up.git
+	fetch = +refs/heads/*:refs/remotes/Login-Signup/*
